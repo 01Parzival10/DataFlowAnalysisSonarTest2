@@ -1,0 +1,50 @@
+[
+  {
+    "container-title": "International Conference on Software Architecture (ICSA)",
+    "DOI": "10.1109/ICSA65012.2025.00020",
+    "publisher": "IEEE",
+    "title": "An Architecture-Based Approach to Mitigate Confidentiality Violations Using Machine Learning",
+    "URL": "https://sebastianhahner.de/publications/2025/Niehues2025_AnArchitectureBasedApproachToMitigateConfidentialityViolationsUsingMachineLearning.pdf",
+    "author": [
+      {
+        "family": "Niehues",
+        "given": "Nils"
+      },
+      {
+        "family": "Hahner",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Heinrich",
+        "given": "Robert"
+      }
+    ],
+    "issued": {
+      "date-parts": [["2025"]]
+    }
+  },
+  {
+    "container-title": "Journal of Systems and Software",
+    "DOI": "10.1016/j.jss.2025.112761",
+    "publisher": "Elsevier",
+    "title": "Mitigation strategies for confidentiality violations in software architecture using ranked feature importance",
+    "URL": "https://www.sciencedirect.com/science/article/pii/S0164121225004303",
+    "author": [
+      {
+        "family": "Niehues",
+        "given": "Nils"
+      },
+      {
+        "family": "Hahner",
+        "given": "Sebastian"
+      },
+      {
+        "family": "Heinrich",
+        "given": "Robert"
+      }
+    ],
+    "issued": {
+      "date-parts": [["2025"]]
+    }
+  }
+]

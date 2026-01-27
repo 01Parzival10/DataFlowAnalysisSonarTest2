@@ -1,0 +1,21 @@
+{
+  "name": "xdecaf-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "predev": "node scripts/prebuild.js",
+    "dev": "vitepress dev",
+    "prebuild": "node scripts/prebuild.js",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "EPL-2.0",
+  "devDependencies": {
+    "mermaid": "^11.6.0",
+    "vitepress": "^1.6.3",
+    "vitepress-plugin-mermaid": "^2.0.17"
+  }
+}
