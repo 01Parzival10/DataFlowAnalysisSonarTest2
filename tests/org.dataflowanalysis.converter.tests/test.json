@@ -125,7 +125,8 @@
       "labels" : null,
       "ports" : null,
       "annotations" : null,
-      "children" : [ ]
+      "children" : [ ],
+      "routingPoints" : null
     }, {
       "text" : "request",
       "id" : "c9n88l",
@@ -135,7 +136,8 @@
       "labels" : null,
       "ports" : null,
       "annotations" : null,
-      "children" : [ ]
+      "children" : [ ],
+      "routingPoints" : null
     }, {
       "text" : "items",
       "id" : "hi397b",
@@ -145,7 +147,8 @@
       "labels" : null,
       "ports" : null,
       "annotations" : null,
-      "children" : [ ]
+      "children" : [ ],
+      "routingPoints" : null
     }, {
       "text" : "process",
       "id" : "js61f",
@@ -174,7 +177,8 @@
       "labels" : null,
       "ports" : null,
       "annotations" : null,
-      "children" : [ ]
+      "children" : [ ],
+      "routingPoints" : null
     }, {
       "text" : "data",
       "id" : "ojjvtp",
@@ -184,7 +188,8 @@
       "labels" : null,
       "ports" : null,
       "annotations" : null,
-      "children" : [ ]
+      "children" : [ ],
+      "routingPoints" : null
     }, {
       "text" : "data",
       "id" : "ufflto",
@@ -194,7 +199,8 @@
       "labels" : null,
       "ports" : null,
       "annotations" : null,
-      "children" : [ ]
+      "children" : [ ],
+      "routingPoints" : null
     }, {
       "text" : "request",
       "id" : "uflsc",
@@ -204,7 +210,8 @@
       "labels" : null,
       "ports" : null,
       "annotations" : null,
-      "children" : [ ]
+      "children" : [ ],
+      "routingPoints" : null
     }, {
       "text" : "data",
       "id" : "vq8g3l",
@@ -214,7 +221,8 @@
       "labels" : null,
       "ports" : null,
       "annotations" : null,
-      "children" : [ ]
+      "children" : [ ],
+      "routingPoints" : null
     }, {
       "text" : "data",
       "id" : "xrzc19",
@@ -224,7 +232,8 @@
       "labels" : null,
       "ports" : null,
       "annotations" : null,
-      "children" : [ ]
+      "children" : [ ],
+      "routingPoints" : null
     }, {
       "text" : "buy",
       "id" : "z9v1jp",
